@@ -1,0 +1,14 @@
+.container{
+  color: maroon;
+  text-align: center;
+  font-size: 32px;
+}
+
+body {
+  background-color: skyblue;
+}
+
+a {
+  font-size: 80px;
+  box-shadow: 0 0 60, black;
+}
